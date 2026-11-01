@@ -9,3 +9,5 @@ pypdf==5.1.0
 transformers==4.47.1
 torch>=2.5.1
 sentencepiece==0.2.0
+scikit-learn
+joblib
